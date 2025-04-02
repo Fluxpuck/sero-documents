@@ -34,13 +34,11 @@ Please review the following important documents:
 
 ### GitHub Issues
 
-Our GitHub Issues system is the official way to:
-
-#### Submit Questions or Bug Reports
+Our GitHub Issues system is the official way to submit a Question, Bug Report or to request Data Removal.
 
 1. Click the "Issues" tab at the top of our repository
 2. Select "New Issue"
-3. Choose the appropriate template (Bug Report, Feature Request, or Question)
+3. Choose the appropriate template (Bug Report or Feature Request)
 4. Fill out the required information
 5. Submit your issue
 
@@ -67,6 +65,3 @@ Sero is licensed under the [MIT License](license.md).
 *Developed with ❤️ by Fluxpuck*
 
 *Made in the Netherlands* <img alt="PNG" height="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1920px-Flag_of_the_Netherlands.svg.png" />
-
-
-

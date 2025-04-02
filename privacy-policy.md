@@ -15,6 +15,16 @@ Sero collects the following information:
 
 **Important:** While we process messages and interactions to enable our features (moderation, economy, leveling, etc.), we do not store any message content.
 
+## 🤖 AI Integration - Claude API Usage
+
+Sero integrates the Claude API (specifically the Claude 3.5 Haiku model) for certain features. Important information regarding this integration:
+
+- Message content processed through the Claude API is **not** used to train Anthropic's large language models
+- As stated in Anthropic's privacy documentation: "Customer inputs and outputs are not used to train Claude unless customers explicitly opt in"
+- We do not opt in to any such data sharing programs
+- Your interaction data with Claude through our bot remains private and is processed only to provide the requested service
+- For more information, you can visit [Anthropic's Privacy Center](https://privacy.anthropic.com/en/articles/7996868-is-my-data-used-for-model-training)
+
 ## 🔍 How We Use Your Information
 
 Your information enables us to:

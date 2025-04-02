@@ -19,9 +19,9 @@
 
 ## Documentation
 
-- [Commands List](commands.md)
-- [Configuration Guide](configuration.md)
-- [Frequently Asked Questions](faq.md)
+- [Commands List]() *Will be added soon*
+- [Configuration Guide]() *Will be added soon*
+- [Frequently Asked Questions]() *Will be added soon*
 
 ## Legal Information
 

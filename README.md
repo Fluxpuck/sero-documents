@@ -13,8 +13,8 @@
 
 ## Getting Started
 
-1. [Invite Sero to your server](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot&permissions=YOUR_PERMISSIONS)
-2. Give the bot appropriate permissions
+1. [Invite Sero to your server](https://discord.com/oauth2/authorize?client_id=553561246339956766&permissions=1119002635430&integration_type=0&scope=bot)
+2. Accept the permissions
 3. Use `/help` to see available commands
 
 ## Documentation
